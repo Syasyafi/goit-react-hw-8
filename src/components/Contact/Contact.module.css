@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+}
+
+.wraper {
+  display: flex;
+  gap: 10px;
+  flex-grow: 1;
+}
+
+.btn {
+  border-radius: 10px;
+  border: transparent;
+  padding: 8px;
+  margin-left: auto;
+}
